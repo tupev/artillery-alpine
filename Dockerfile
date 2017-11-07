@@ -1,6 +1,6 @@
 FROM node:9-alpine
 
-MAINTAINER https://github.com/tupev/artillery-alpine
+MAINTAINER <https://github.com/tupev/artillery-alpine>
 
 ENV ARTILLERY_VERSION 1.6.0-10
 
